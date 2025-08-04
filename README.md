@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 2. 运行应用：
 ```bash
-python app.py
+python run.py
 ```
 
 3. 访问应用：
